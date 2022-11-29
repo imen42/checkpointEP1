@@ -1,0 +1,3 @@
+-it's a communication between browser , server and clients . the browser send a request (http) to the server witch will send a copy to the client
+-web developers mainly need to master programming languages such as js and web protocoles 
+-i choosed web development because i adore programming ( as simple as that )
